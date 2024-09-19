@@ -1,5 +1,5 @@
-## Part_of_Math_tagging
-This repo contains the Part-of-Math Tagging dataset.
+## STEM-PoM
+This repo contains the STEM-PoM benchmark dataset.
 
 ### Prerequisites
 * BeautifulSoup 4
