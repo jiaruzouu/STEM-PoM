@@ -14,9 +14,9 @@ This repo contains the STEM-PoM benchmark dataset.
 
 ## Pipeline 
 ![Alt text](./imgs/pipeline.png)
-## STEM-PoM Tagger
+## STEM-PoM Labeler
   ```python
-  cd STEM-PoM
+  cd labeler
   python new_distribute.py # run this to open the UI
   ```
   
