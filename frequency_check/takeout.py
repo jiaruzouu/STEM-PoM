@@ -21,8 +21,7 @@ symbols_set = set(symbol_dict.keys())
 # Dictionary to hold symbols and the list of files they appear in
 symbols_files_dict = {symbol: [] for symbol in symbols_set}
 
-# Path to the 'corpus' directory
-corpus_root_path = '/projects/kani-lab/corpus/arXivML_np'
+corpus_root_path = ''
 
 # Function to search for symbols in an HTML file
 def search_symbols_in_html(html_content, symbols_set):
