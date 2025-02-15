@@ -44,14 +44,3 @@ This repo contains the STEM-PoM benchmark dataset.
     The dataset contains all the data we collected from the ArxiV library. 
     It's been ordered into file name, order of this symbol in the file, the actual symbol, its attribute and related content
   
-
-  
-<!-- ## Contact
-  
-  Nickvash Kani - kani@illinios.edu
-  
-  Qing Wang - qingw3@illinois.edu
-  
-  Jiaru(Rubin) Zou - jiaruz2@illinois.edu
-
-Project Link: [[https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)](https://github.com/MLPgroup/Part_of_Math_tagging) -->
