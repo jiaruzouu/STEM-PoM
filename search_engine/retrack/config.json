@@ -1,0 +1,5 @@
+{
+    "model" : "text-davinci-002",
+    "api_key" : "put your api key here",
+    "max_tokens" : 30
+}

@@ -1,0 +1,20 @@
+#!/bin/sh
+
+#PBS -M jiaruz2@illinois.edu 
+
+#PBS -N Python extracter
+
+#PBS -l walltime=24:00:00
+
+#PBS -l nodes=1
+
+#PBS -m a
+
+#PBS -q eng-research-gpu
+
+#SBATCH --gres gpu:V100 
+
+#SBATCH --ntasks-per-node=32 
+
+# code here
+
